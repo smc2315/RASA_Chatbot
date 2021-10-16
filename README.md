@@ -6,7 +6,7 @@
 
 아래에서 다운 받을 수 있습니다. https://drive.google.com/drive/folders/1K_pMeDTOYs2oiBN5g_0pXRH6ar_0RyaJ?usp=sharing{:target="_blank"}
 
-warlus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
+walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
 
 ./custom/gloVe_featurizer/model/glove.txt
 
