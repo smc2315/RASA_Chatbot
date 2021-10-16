@@ -6,7 +6,7 @@
 
 아래에서 다운 받을 수 있습니다. https://drive.google.com/drive/folders/1K_pMeDTOYs2oiBN5g_0pXRH6ar_0RyaJ?usp=sharing{:target="_blank"}
 
-warlus-chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
+warlus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어야 합니다.
 
 ./custom/gloVe_featurizer/model/glove.txt
 
@@ -68,6 +68,6 @@ warlus-chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 |:------:|--------------|
 |박상준|프로젝트 총괄, RASA 챗봇 설계, 환경 개발 및 유지 보수|
 |최용태|RASA 챗봇 설계, 환경 개발 및 유지보수|
-|이윤표|RASA 챗봇 설계, Android 화면 설계|
-|홍진원|DB, 데이터 크롤링, API 서비스, Android 화면 설계|
-|정원석|DB, 데이터 크롤링, API 서비스, Android 화면 설계|
+|이윤표|RASA 챗봇 설계, Android application 개발|
+|홍진원|Data Crawling, API 서버 구축, Android application 개발|
+|정원석|Data Crawling, API 서버 구축, Android application 개발|
