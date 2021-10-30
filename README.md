@@ -15,7 +15,7 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 
 해상 물류를 위해 화주사, 해운사, 항만운영사, 내륙운송 사업자 등 다양한 이해관계자들이 해상 물류 정보등을 조회하고 선박입출항 및 물동량 데이터등을 확인하기 위해 해운항만물류정보시스템(PORT-MIS)를 활용하는데, 시스템에 미숙한 사용자가  챗봇 서비스를 통해 대화형으로 각종 물류 서비스 정보를 쉽게 획득할 수 있도록 하는 어플리케이션
 
-<img src="https://i.esdrop.com/d/igmccyiogpxf/UC3h40lUvX.png" width="250" height="500"/>
+<img src="https://i.esdrop.com/d/igmccyiogpxf/1oiPsiVWrx.jpg" width="250" height="500"/>
 
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/fPgQ7MRl8P.gif)
@@ -23,12 +23,12 @@ walrus_chabot 디렉토리 내에서 glove.txt 파일을 아래 경로에 두어
 <!--Table-->
 |기능|설명|어플 화면|
 |:------:|------|------|
-|**대화형 정보 제공 서비스<br/>(CHAT-BOT)**|<U>**선박입출항 현황 정보 제공:**</U><br/>[항명 ,선명, 호출부호, 외내, 입출, 총 톤수, 입출항 일시, 국적, 선박용도] 정보를 대화형으로 제공<br/>대화 스토리 진행 순서:<br/>1. 사용자가 시설사용허가현황 정보 요청 질문<br/>2. 사용자 질문에서 날짜와 항구 추출<br/>3. 질문에 날짜 또는 항구가 없을 시 해당사항 재요청<br/>4. 해당 날짜의 시설사용허가현황 정보 제공<br/><br/><br/><br/><U>**시설사용허가현황 제공:**</U><br/>[항명, 선명, 총 톤수, 입항 횟수, 선사/대리점, 신청일시, 허가유무]를 대화형으로 제공<br/>대화 스토리 진행 순서:<br/>1. 사용자가 시설사용허가현황 정보 요청 질문<br/>2. 사용자 질문에서 날짜와 항구 추출<br/>3. 질문에 날짜 또는 항구가 없을 시 해당사항 재요청<br/>4. 해당 날짜의 시설사용허가현황 정보 제공|<img src="https://i.esdrop.com/d/igmccyiogpxf/LAN9CTQNIp.png" width="250" height="500"/><img src="https://i.esdrop.com/d/igmccyiogpxf/2IYSUhuxPg.pngg" width="250" height="500"/>|
-|**사용료 계산**|<U>**사용료 계산:**</U><br/>[선박료, 화물료 연체료] 계산<br/>대화 스토리 진행 순서:<br/>1-1. 사용자가 사용료 계산 요청<br/>1-2. 버튼으로 선박료/화물료/연체료 선택<br/>1-3. 선택된 버튼에 따라서 사용료 계산<br/>2-1. 사용자가 선박료/화물료/연체료 계산 요청<br/>2-2. 사용자 질문에서 어떤 사용료인지 추출<br/>2-3.  해당 사용료 계산|<img src="https://i.esdrop.com/d/igmccyiogpxf/u11EVnSyO8.png" width="250" height="500"/>|
-|**항만 날씨 위젯**|1. 주요 항구(부산/여수/포항/인천) 실시간 날씨 및 기상센서정보를 제공<br/>2. 사용자가 해당 항구의 Radio Button 체크하면 습도,풍향,풍속,기온 정보를 한눈에 확인 할 수 있음|<img src="https://i.esdrop.com/d/igmccyiogpxf/UC3h40lUvX.png" width="250" height="500"/>
-|**항구/항만 관련 News**|1. 항구 및 항만 관련 최신 기사 및 뉴스 리스트를 제공<br/>2. 관심 기사 선택 시 WebView로 해당 기사 및 뉴스에 접근 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/KqxxM7pDyI.pn" width="250" height="500"/>
-|**공지사항**|1. 주요 항만공사 웹사이트의 공지사항 리스트를 제공<br/>2. 해당 공지사항 선택시 WebView로 해당 공지사항에 접근 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/HiomNrNEx2.bmp" width="250" height="500"/>
-|**음성인식 서비스<br/>(CHAT-BOT)**|<U>대화형 정보 제공서비스:</U><br/>1. 챗봇 서비스 이용 시 텍스트 입력 대신 음성인식을 통하여 텍스트로 전환하여 모바일 환경에 익숙하지 않은 사용자도 서비스 이용 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/zMvTDYFOIU.png" width="250" height="500"/>
+|**대화형 정보 제공 서비스<br/>(CHAT-BOT)**|<U>**선박입출항 현황 정보 제공:**</U><br/>[항명 ,선명, 호출부호, 외내, 입출, 총 톤수, 입출항 일시, 국적, 선박용도] 정보를 대화형으로 제공<br/>대화 스토리 진행 순서:<br/>1. 사용자가 시설사용허가현황 정보 요청 질문<br/>2. 사용자 질문에서 날짜와 항구 추출<br/>3. 질문에 날짜 또는 항구가 없을 시 해당사항 재요청<br/>4. 해당 날짜의 시설사용허가현황 정보 제공<br/><br/><br/><br/><U>**시설사용허가현황 제공:**</U><br/>[항명, 선명, 총 톤수, 입항 횟수, 선사/대리점, 신청일시, 허가유무]를 대화형으로 제공<br/>대화 스토리 진행 순서:<br/>1. 사용자가 시설사용허가현황 정보 요청 질문<br/>2. 사용자 질문에서 날짜와 항구 추출<br/>3. 질문에 날짜 또는 항구가 없을 시 해당사항 재요청<br/>4. 해당 날짜의 시설사용허가현황 정보 제공|<img src="https://i.esdrop.com/d/igmccyiogpxf/Zlp8DP1ICh.jpg" width="250" height="500"/><img src="https://i.esdrop.com/d/igmccyiogpxf/dNL368Pu6R.jpg" width="250" height="500"/>|
+|**사용료 계산**|<U>**사용료 계산:**</U><br/>[선박료, 화물료 연체료] 계산<br/>대화 스토리 진행 순서:<br/>1-1. 사용자가 사용료 계산 요청<br/>1-2. 버튼으로 선박료/화물료/연체료 선택<br/>1-3. 선택된 버튼에 따라서 사용료 계산<br/>2-1. 사용자가 선박료/화물료/연체료 계산 요청<br/>2-2. 사용자 질문에서 어떤 사용료인지 추출<br/>2-3.  해당 사용료 계산|<img src="https://i.esdrop.com/d/igmccyiogpxf/w7JAGI5PFJ.jpg" width="250" height="500"/>|
+|**항만 날씨 위젯**|1. 주요 항구(부산/여수/포항/인천) 실시간 날씨 및 기상센서정보를 제공<br/>2. 사용자가 해당 항구의 Radio Button 체크하면 습도,풍향,풍속,기온 정보를 한눈에 확인 할 수 있음|<img src="https://i.esdrop.com/d/igmccyiogpxf/1oiPsiVWrx.jpg" width="250" height="500"/>
+|**항구/항만 관련 News**|1. 항구 및 항만 관련 최신 기사 및 뉴스 리스트를 제공<br/>2. 관심 기사 선택 시 WebView로 해당 기사 및 뉴스에 접근 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/K1Wihvu9ge.jpg" width="250" height="500"/>
+|**공지사항**|1. 주요 항만공사 웹사이트의 공지사항 리스트를 제공<br/>2. 해당 공지사항 선택시 WebView로 해당 공지사항에 접근 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/Qi5RVYpkTu.jpg" width="250" height="500"/>
+|**음성인식 서비스<br/>(CHAT-BOT)**|<U>대화형 정보 제공서비스:</U><br/>1. 챗봇 서비스 이용 시 텍스트 입력 대신 음성인식을 통하여 텍스트로 전환하여 모바일 환경에 익숙하지 않은 사용자도 서비스 이용 가능|<img src="https://i.esdrop.com/d/igmccyiogpxf/9dd5NcezM1.JPG" width="250" height="500"/>
 
 ![image description](https://i.esdrop.com/d/igmccyiogpxf/2F04DGM0Ef.gif)
 
